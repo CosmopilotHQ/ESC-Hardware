@@ -51,12 +51,12 @@ register |= (1 << bit_position);
 - Turning Pin High
 
   ```c
-  PORTD |= (1 << PD5);
+  PORTB |= (1 << PD5);
   ```
 
 - Turning Pin Low
   ```c
-  PORTD &= ~(1 << PD5);
+  PORTB &= ~(1 << PD5);
   ```
 
 ## License
