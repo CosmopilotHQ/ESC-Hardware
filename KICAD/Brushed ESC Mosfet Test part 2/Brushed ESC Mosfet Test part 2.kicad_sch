@@ -3649,22 +3649,10 @@
 		)
 	)
 	(junction
-		(at 254 160.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "026e13d7-032f-47da-baee-b0c3aba09485")
-	)
-	(junction
 		(at 243.84 133.35)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0a354579-d23f-450e-af2d-c153206931ef")
-	)
-	(junction
-		(at 242.57 153.67)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0c1399fa-c2a3-4a1c-9d46-2641a78e6f00")
 	)
 	(junction
 		(at 78.74 31.75)
@@ -3677,12 +3665,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "14310560-ac14-49fc-b5f3-25c39f810192")
-	)
-	(junction
-		(at 243.84 144.78)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "14428f3f-1721-4995-b2c1-15aea9f6833c")
 	)
 	(junction
 		(at 243.84 33.02)
@@ -3713,12 +3695,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "255b2a54-3052-48ff-a164-ca0b70661594")
-	)
-	(junction
-		(at 71.12 86.36)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "278e98cc-fd5a-402f-aa45-cbc97717ad27")
 	)
 	(junction
 		(at 57.15 39.37)
@@ -3781,22 +3757,10 @@
 		(uuid "64ce5c41-e7f4-445b-be95-c4983544a5ee")
 	)
 	(junction
-		(at 243.84 73.66)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6d06a8c8-6387-4b89-855a-5ee9302d735e")
-	)
-	(junction
 		(at 236.22 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "725eeb21-d1ad-465b-b5ff-6859f53fd385")
-	)
-	(junction
-		(at 254 88.9)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "78bdef63-c3e5-4787-ab73-6ca0176d06a0")
 	)
 	(junction
 		(at 214.63 123.19)
@@ -3823,12 +3787,6 @@
 		(uuid "8f179af4-d699-4231-a9a7-adeaa2817629")
 	)
 	(junction
-		(at 243.84 60.96)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "994df8f7-dc7f-4754-90fc-33242ce60ac1")
-	)
-	(junction
 		(at 45.72 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3847,10 +3805,10 @@
 		(uuid "a1f39d5e-98ea-48bb-9166-5aef6078224b")
 	)
 	(junction
-		(at 77.47 185.42)
+		(at 132.08 156.21)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "a9d25e98-367d-473d-b8e7-dfb9e7c434d1")
+		(uuid "a7bf19ae-0aae-43f3-b751-4e36fb2e487e")
 	)
 	(junction
 		(at 243.84 115.57)
@@ -3871,16 +3829,10 @@
 		(uuid "b26b8d59-678b-44f5-8082-1bd1a51691bf")
 	)
 	(junction
-		(at 243.84 83.82)
+		(at 54.61 138.43)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "b3727b40-ee5a-4f82-adab-b90d605429b4")
-	)
-	(junction
-		(at 234.95 82.55)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b80dc172-2233-4f6e-b93c-7a842cd80825")
+		(uuid "b79fd288-9725-4c87-857d-97c88ac7501f")
 	)
 	(junction
 		(at 243.84 123.19)
@@ -3907,10 +3859,10 @@
 		(uuid "bcf5e9f6-ba48-4240-abed-a8e1c10c8c0a")
 	)
 	(junction
-		(at 71.12 78.74)
+		(at 121.92 140.97)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c94f8107-ef3e-4614-a285-f2f448dece99")
+		(uuid "c2079752-f934-41c5-afee-7355b7ccb823")
 	)
 	(junction
 		(at 243.84 48.26)
@@ -3949,28 +3901,28 @@
 		(uuid "e132a7be-8bed-4a8e-839b-ff22554268ea")
 	)
 	(junction
-		(at 92.71 86.36)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e1c8be80-4909-46b2-8056-a38b2e5261d8")
-	)
-	(junction
 		(at 45.72 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e7a3604e-93d1-46b1-a09a-bf2d9fca31b8")
 	)
 	(junction
-		(at 92.71 78.74)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ef94a5da-5bc3-42c7-8bbf-4c85ba54dbbe")
-	)
-	(junction
 		(at 234.95 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f0e24410-ff6a-41d0-b8e5-a84440ef2b80")
+	)
+	(junction
+		(at 243.84 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f2bf4be4-93cb-4f84-8d62-cbad41a7fca1")
+	)
+	(junction
+		(at 121.92 151.13)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f74ce593-4a14-4532-a955-ad761e39019e")
 	)
 	(junction
 		(at 214.63 43.18)
@@ -3980,23 +3932,13 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 54.61) (xy 88.9 54.61)
+			(xy 78.74 54.61) (xy 105.41 54.61)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "0142bb9d-2da0-442b-aae4-ae37c7dd10fa")
-	)
-	(wire
-		(pts
-			(xy 60.96 78.74) (xy 71.12 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "01cab6df-3b33-4b4c-a216-31996b561dc3")
 	)
 	(wire
 		(pts
@@ -4120,16 +4062,6 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 60.96) (xy 243.84 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "19368f4a-72c8-4bf0-9b0b-d317f6ed0724")
-	)
-	(wire
-		(pts
 			(xy 234.95 120.65) (xy 234.95 123.19)
 		)
 		(stroke
@@ -4180,7 +4112,17 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 71.12) (xy 234.95 82.55)
+			(xy 68.58 138.43) (xy 77.47 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "20c18125-643f-4c43-b75e-9879323c409d")
+	)
+	(wire
+		(pts
+			(xy 234.95 71.12) (xy 234.95 83.82)
 		)
 		(stroke
 			(width 0)
@@ -4250,16 +4192,6 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 81.28) (xy 265.43 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "28782b73-c181-440a-a7e0-ed76c3f49ea5")
-	)
-	(wire
-		(pts
 			(xy 234.95 55.88) (xy 236.22 55.88)
 		)
 		(stroke
@@ -4310,26 +4242,6 @@
 	)
 	(wire
 		(pts
-			(xy 242.57 154.94) (xy 242.57 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "334880c7-903c-48b6-b206-f9fd104192d0")
-	)
-	(wire
-		(pts
-			(xy 242.57 144.78) (xy 243.84 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3616d856-71fe-4500-bbfa-7723452a8489")
-	)
-	(wire
-		(pts
 			(xy 72.39 173.99) (xy 76.2 173.99)
 		)
 		(stroke
@@ -4337,16 +4249,6 @@
 			(type default)
 		)
 		(uuid "37a5c606-b1aa-4401-bab8-936075d429c0")
-	)
-	(wire
-		(pts
-			(xy 99.06 54.61) (xy 105.41 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "380abe90-ec6a-4c72-8692-ea9d86a732b1")
 	)
 	(wire
 		(pts
@@ -4380,7 +4282,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 114.3) (xy 100.33 114.3)
+			(xy 90.17 114.3) (xy 116.84 114.3)
 		)
 		(stroke
 			(width 0)
@@ -4427,6 +4329,16 @@
 			(type default)
 		)
 		(uuid "4328e951-f84d-448f-a417-f45a22278945")
+	)
+	(wire
+		(pts
+			(xy 116.84 140.97) (xy 121.92 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "433ffd9c-479d-48ef-8403-67b6269a86e8")
 	)
 	(wire
 		(pts
@@ -4550,16 +4462,6 @@
 	)
 	(wire
 		(pts
-			(xy 254 160.02) (xy 266.7 160.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "557c2fa9-a7b9-42ba-ab54-2f5e049c5aff")
-	)
-	(wire
-		(pts
 			(xy 88.9 99.06) (xy 95.25 99.06)
 		)
 		(stroke
@@ -4597,16 +4499,6 @@
 			(type default)
 		)
 		(uuid "5f30f2ca-e2eb-4e28-856c-391c14f9e2b0")
-	)
-	(wire
-		(pts
-			(xy 243.84 154.94) (xy 242.57 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5feb6f06-edd6-4cff-bcd4-a04f18777b36")
 	)
 	(wire
 		(pts
@@ -4687,26 +4579,6 @@
 			(type default)
 		)
 		(uuid "6c6b757b-60e7-4ddd-b520-20481896e6f3")
-	)
-	(wire
-		(pts
-			(xy 243.84 81.28) (xy 243.84 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "71e4c7ca-8f31-47d2-9f22-cb282a1d0875")
-	)
-	(wire
-		(pts
-			(xy 243.84 83.82) (xy 242.57 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "760fb02b-6e19-42ca-aad1-bb29ea49865e")
 	)
 	(wire
 		(pts
@@ -4830,16 +4702,6 @@
 	)
 	(wire
 		(pts
-			(xy 242.57 83.82) (xy 242.57 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "91c2a549-198e-4516-8e00-60a54fcf3f87")
-	)
-	(wire
-		(pts
 			(xy 57.15 62.23) (xy 78.74 62.23)
 		)
 		(stroke
@@ -4847,16 +4709,6 @@
 			(type default)
 		)
 		(uuid "922730a4-8ae7-449e-a39b-5d6bf6339f5b")
-	)
-	(wire
-		(pts
-			(xy 82.55 86.36) (xy 92.71 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "93b1223d-3718-4f37-8af4-b533a6a4e24b")
 	)
 	(wire
 		(pts
@@ -4900,6 +4752,16 @@
 	)
 	(wire
 		(pts
+			(xy 54.61 138.43) (xy 60.96 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9aa43e98-a43a-4afa-b168-e0388b295ca9")
+	)
+	(wire
+		(pts
 			(xy 243.84 133.35) (xy 260.35 133.35)
 		)
 		(stroke
@@ -4937,16 +4799,6 @@
 			(type default)
 		)
 		(uuid "9f352d8a-ed86-4801-b75c-8adac225a7ac")
-	)
-	(wire
-		(pts
-			(xy 234.95 82.55) (xy 234.95 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9ffb6846-92ed-4384-92dc-4cc3a44b5c21")
 	)
 	(wire
 		(pts
@@ -5100,6 +4952,16 @@
 	)
 	(wire
 		(pts
+			(xy 142.24 148.59) (xy 143.51 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b9ed90e9-f74e-4c0e-8ce4-aa767e10f300")
+	)
+	(wire
+		(pts
 			(xy 259.08 50.8) (xy 243.84 50.8)
 		)
 		(stroke
@@ -5107,6 +4969,16 @@
 			(type default)
 		)
 		(uuid "bab39367-3f2e-421d-803d-33d24ead10aa")
+	)
+	(wire
+		(pts
+			(xy 243.84 71.12) (xy 234.95 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb550206-aea7-4fbc-9cf5-0fdcb95796ef")
 	)
 	(wire
 		(pts
@@ -5190,53 +5062,13 @@
 	)
 	(wire
 		(pts
-			(xy 242.57 153.67) (xy 234.95 153.67)
+			(xy 234.95 153.67) (xy 243.84 153.67)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "cbb3f85b-51c3-4be4-8987-0184407015bf")
-	)
-	(wire
-		(pts
-			(xy 77.47 184.15) (xy 77.47 185.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ce08435d-616d-4728-b604-f9e8b72029d6")
-	)
-	(wire
-		(pts
-			(xy 60.96 86.36) (xy 71.12 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d38d6f7a-fc48-4e98-af03-4b656de2aeee")
-	)
-	(wire
-		(pts
-			(xy 82.55 78.74) (xy 92.71 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d64b9d8b-5310-4237-bd41-774da86f1a47")
-	)
-	(wire
-		(pts
-			(xy 254 88.9) (xy 265.43 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d71de7eb-c936-4c82-be2e-678bf5a45ab2")
 	)
 	(wire
 		(pts
@@ -5257,16 +5089,6 @@
 			(type default)
 		)
 		(uuid "d7c73b82-8abd-4fb1-bdf8-8cce092860ed")
-	)
-	(wire
-		(pts
-			(xy 242.57 82.55) (xy 234.95 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d81545ee-ef0e-4870-9ed6-c861348a0c78")
 	)
 	(wire
 		(pts
@@ -5330,6 +5152,26 @@
 	)
 	(wire
 		(pts
+			(xy 121.92 148.59) (xy 121.92 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4d82900-7de4-4ea6-a564-267f6ab9daf4")
+	)
+	(wire
+		(pts
+			(xy 243.84 60.96) (xy 243.84 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e594e6b5-e081-4219-9c4b-01a6774c2d1a")
+	)
+	(wire
+		(pts
 			(xy 224.79 55.88) (xy 226.06 55.88)
 		)
 		(stroke
@@ -5360,13 +5202,13 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 184.15) (xy 86.36 184.15)
+			(xy 132.08 156.21) (xy 143.51 156.21)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e9c93f3b-c3a6-4510-b41c-2fae3ae7c3df")
+		(uuid "e7aabc84-1680-4954-bfcc-e2ef6c5b67d6")
 	)
 	(wire
 		(pts
@@ -5380,26 +5222,6 @@
 	)
 	(wire
 		(pts
-			(xy 242.57 152.4) (xy 242.57 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e9cf09a8-893f-4593-8cfa-0b874e0cff9c")
-	)
-	(wire
-		(pts
-			(xy 110.49 114.3) (xy 116.84 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ea18f96b-6639-4ed1-b9a4-25b915acdc78")
-	)
-	(wire
-		(pts
 			(xy 196.85 143.51) (xy 196.85 142.24)
 		)
 		(stroke
@@ -5407,6 +5229,16 @@
 			(type default)
 		)
 		(uuid "ea4ef7e2-58e9-4bdf-b4fa-8fa5e67f44d7")
+	)
+	(wire
+		(pts
+			(xy 121.92 151.13) (xy 121.92 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb84610e-e4ea-4ba0-86f3-329406ff0563")
 	)
 	(wire
 		(pts
@@ -5450,16 +5282,6 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 152.4) (xy 266.7 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f399b6a5-f8c2-44de-a5a8-3369a5ffd64a")
-	)
-	(wire
-		(pts
 			(xy 224.79 127) (xy 224.79 128.27)
 		)
 		(stroke
@@ -5470,7 +5292,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 133.35) (xy 243.84 144.78)
+			(xy 243.84 133.35) (xy 243.84 153.67)
 		)
 		(stroke
 			(width 0)
@@ -5664,6 +5486,28 @@
 		)
 		(uuid "b4e4a969-1a33-4471-a00a-46005268224d")
 	)
+	(global_label "CURRENT_SENSE1"
+		(shape input)
+		(at 142.24 146.05 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "01948804-bf9e-4504-bf3c-1aa5d1ea27b1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 162.0374 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "RX1"
 		(shape input)
 		(at 24.13 177.8 180)
@@ -5708,51 +5552,7 @@
 			)
 		)
 	)
-	(global_label "CURRENT_SENSE2"
-		(shape input)
-		(at 264.16 149.86 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "1399c2a4-46e5-45ea-b6cd-d81eff1ff36a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 283.9574 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "CURRENT_SENSE1"
-		(shape input)
-		(at 264.16 78.74 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "1788ad75-8ed5-462a-b81a-be0b74cc61ce")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 283.9574 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "M1+LIN"
+	(global_label "M1+HIN"
 		(shape input)
 		(at 76.2 170.18 0)
 		(fields_autoplaced yes)
@@ -5764,7 +5564,7 @@
 		)
 		(uuid "3354fe14-b644-4129-847f-dedc791e08f1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 86.3819 170.18 0)
+			(at 86.6843 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5836,28 +5636,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "CURRENT_SENSE2"
-		(shape input)
-		(at 86.36 184.15 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "4f2bf40b-ca6f-4d35-b976-e2014eae7f3f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 106.1574 184.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -6038,7 +5816,7 @@
 			)
 		)
 	)
-	(global_label "M1+HIN"
+	(global_label "M1+LIN"
 		(shape input)
 		(at 76.2 166.37 0)
 		(fields_autoplaced yes)
@@ -6050,7 +5828,7 @@
 		)
 		(uuid "ca3105b7-f193-42b6-8626-abb8a45544db")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 86.6843 166.37 0)
+			(at 86.3819 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6263,72 +6041,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 127 153.67 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "03ceed9d-65c2-411f-a43f-1205d2192175")
-		(property "Reference" "#PWR034"
-			(at 127 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 127 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 127 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 127 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 127 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4718864e-c229-4ba8-a40a-0097d046886f")
-		)
-		(instances
-			(project "Brushed ESC Mosfet Test part 2"
-				(path "/73277d98-f937-461a-b55b-9daec5511101"
-					(reference "#PWR034")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+BATT")
 		(at 31.75 27.94 0)
 		(unit 1)
@@ -6476,85 +6188,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Jumper:Jumper_2_Open")
-		(at 105.41 114.3 0)
-		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "13905c0f-645a-4a90-a97f-182da2e4244d")
-		(property "Reference" "JP3"
-			(at 105.41 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "3.3v jump"
-			(at 105.41 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
-			(at 105.41 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 105.41 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Jumper, 2-pole, open"
-			(at 105.41 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "10a34b2f-f871-491f-9e0f-8a3038b16fc0")
-		)
-		(pin "1"
-			(uuid "9f834905-f5f8-48a9-905d-ef1d2256dc7c")
-		)
-		(instances
-			(project "Brushed ESC Mosfet Test part 2"
-				(path "/73277d98-f937-461a-b55b-9daec5511101"
-					(reference "JP3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
-		(at 266.7 156.21 0)
+		(at 143.51 152.4 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "14a1996b-6bfa-4f25-bcab-960d5b793ed8")
-		(property "Reference" "C34"
-			(at 270.51 154.9399 0)
+		(uuid "08a577cc-b7c0-4133-855f-8c01ec87f3d5")
+		(property "Reference" "C7"
+			(at 147.32 151.1299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6563,7 +6207,7 @@
 			)
 		)
 		(property "Value" "C"
-			(at 270.51 157.4799 0)
+			(at 147.32 153.6699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6572,7 +6216,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
-			(at 267.6652 160.02 0)
+			(at 144.4752 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6581,7 +6225,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 266.7 156.21 0)
+			(at 143.51 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6590,7 +6234,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 266.7 156.21 0)
+			(at 143.51 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6599,32 +6243,32 @@
 			)
 		)
 		(pin "2"
-			(uuid "44bb7dec-04fa-4f6d-8019-cf5dfc46b627")
+			(uuid "2f623b72-078d-4b8d-acd9-37963a9d3ef0")
 		)
 		(pin "1"
-			(uuid "c2cf6e15-6479-4d9e-bdee-99a1f6497f58")
+			(uuid "509fdccd-cdb0-415a-af4c-8c078db4c720")
 		)
 		(instances
 			(project "Brushed ESC Mosfet Test part 2"
 				(path "/73277d98-f937-461a-b55b-9daec5511101"
-					(reference "C34")
+					(reference "C7")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 82.55 82.55 0)
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 116.84 157.48 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "199793aa-33fc-4f16-8f8a-42f9a2bba0d3")
-		(property "Reference" "C31"
-			(at 86.36 81.2799 0)
+		(uuid "0a80a659-522b-47ed-8b3f-ee7adf1b2c41")
+		(property "Reference" "J1"
+			(at 114.3 157.4801 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6632,8 +6276,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 86.36 83.8199 0)
+		(property "Value" "batt input"
+			(at 114.3 154.9401 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6641,8 +6285,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
-			(at 83.5152 86.36 0)
+		(property "Footprint" "Connector_JST:JST_NV_B02P-NV_1x02_P5.00mm_Vertical"
+			(at 116.84 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6651,7 +6295,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 82.55 82.55 0)
+			(at 116.84 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6659,8 +6303,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
-			(at 82.55 82.55 0)
+		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 116.84 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6669,15 +6313,81 @@
 			)
 		)
 		(pin "1"
-			(uuid "249c07a6-aebd-4b65-aed3-05fd8cd6f576")
+			(uuid "16196eaa-bdf9-4bff-8596-3a934cf667e4")
 		)
 		(pin "2"
-			(uuid "e53430ea-bfb6-45ed-8a6a-6e25a1e916ca")
+			(uuid "ff6c2853-9afd-4f06-8c37-5fbb5c602f8b")
 		)
 		(instances
 			(project "Brushed ESC Mosfet Test part 2"
 				(path "/73277d98-f937-461a-b55b-9daec5511101"
-					(reference "C31")
+					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDD")
+		(at 116.84 140.97 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0ce230d7-249d-4f7a-9632-761d67539f0b")
+		(property "Reference" "#PWR030"
+			(at 116.84 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDD"
+			(at 116.84 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 116.84 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 116.84 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDD\" , digital ground"
+			(at 116.84 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4debcc90-82ce-477f-ab46-d03ead6a0b33")
+		)
+		(instances
+			(project "Brushed ESC Mosfet Test part 2"
+				(path "/73277d98-f937-461a-b55b-9daec5511101"
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -7157,6 +6867,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 121.92 144.78 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "238b82d4-ce77-4094-9215-3720b251f410")
+		(property "Reference" "R15"
+			(at 124.46 143.5099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "R_shunt"
+			(at 124.46 146.0499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_2816_7142Metric_Pad3.20x4.45mm_HandSolder"
+			(at 120.142 144.78 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 121.92 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 121.92 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f924e615-7e1a-49d8-a92d-af48731b19de")
+		)
+		(pin "2"
+			(uuid "4c11ca11-cd51-4647-931d-592e0be0d185")
+		)
+		(instances
+			(project "Brushed ESC Mosfet Test part 2"
+				(path "/73277d98-f937-461a-b55b-9daec5511101"
+					(reference "R15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GNDD")
 		(at 54.61 191.77 0)
 		(unit 1)
@@ -7217,95 +6997,6 @@
 			(project "Brushed ESC Mosfet Test part 2"
 				(path "/73277d98-f937-461a-b55b-9daec5511101"
 					(reference "#PWR029")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Sensor_Current:ACS712xLCTR-30A")
-		(at 254 78.74 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "266c6781-9ab8-43f3-8d66-270f07dda270")
-		(property "Reference" "U8"
-			(at 255.778 75.438 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "ACS712xLCTR-30A"
-			(at 255.778 69.342 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 256.54 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.allegromicro.com/~/media/Files/Datasheets/ACS712-Datasheet.ashx?la=en"
-			(at 254 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "±30A Bidirectional Hall-Effect Current Sensor, +5.0V supply, 66mV/A, SOIC-8"
-			(at 254 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "edc6f480-b7a8-4850-b7c3-3c6337b9725c")
-		)
-		(pin "5"
-			(uuid "318f54c2-0cb8-4175-83a8-7df60dd5a80d")
-		)
-		(pin "2"
-			(uuid "8f2ae160-3ec1-4fe0-bdae-3d19d9047fa9")
-		)
-		(pin "4"
-			(uuid "89c5312e-8cbe-430f-a056-b860ff7aa7ab")
-		)
-		(pin "8"
-			(uuid "83821a1c-2dba-4111-9373-7f9ac836b17d")
-		)
-		(pin "3"
-			(uuid "a47eb3fe-5774-4e89-87e6-bb8833d40f37")
-		)
-		(pin "6"
-			(uuid "74bf98a3-b03b-4e60-801e-97ad2310b1a7")
-		)
-		(pin "7"
-			(uuid "d811879e-7630-4594-ba1d-4edc1cee0ffa")
-		)
-		(instances
-			(project "Brushed ESC Mosfet Test part 2"
-				(path "/73277d98-f937-461a-b55b-9daec5511101"
-					(reference "U8")
 					(unit 1)
 				)
 			)
@@ -7458,71 +7149,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3.3V")
-		(at 254 139.7 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "2d69d2f8-9838-45d6-ad6b-80f9bce0ca8e")
-		(property "Reference" "#PWR031"
-			(at 254 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 253.746 136.652 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 254 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 254 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 254 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5715c1a2-55f8-40b7-be48-67946dc2147d")
-		)
-		(instances
-			(project "Brushed ESC Mosfet Test part 2"
-				(path "/73277d98-f937-461a-b55b-9daec5511101"
-					(reference "#PWR031")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GNDD")
 		(at 88.9 99.06 0)
 		(unit 1)
@@ -7651,72 +7277,6 @@
 			(project "Brushed ESC Mosfet Test part 2"
 				(path "/73277d98-f937-461a-b55b-9daec5511101"
 					(reference "J3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GNDD")
-		(at 71.12 86.36 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3207a260-c871-47b2-886a-c006c23fa310")
-		(property "Reference" "#PWR021"
-			(at 71.12 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GNDD"
-			(at 71.12 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 71.12 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 71.12 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GNDD\" , digital ground"
-			(at 71.12 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d7e611ec-e2c8-42bd-9927-3eeddcef025c")
-		)
-		(instances
-			(project "Brushed ESC Mosfet Test part 2"
-				(path "/73277d98-f937-461a-b55b-9daec5511101"
-					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -8063,76 +7623,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 132.08 151.13 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "44a9b5bf-ee31-4e32-8515-6ef73ed7d0be")
-		(property "Reference" "J1"
-			(at 134.62 151.1299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "batt input"
-			(at 134.62 153.6699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_JST:JST_NV_B02P-NV_1x02_P5.00mm_Vertical"
-			(at 132.08 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 132.08 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 132.08 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "df459ab9-b05c-42dc-b116-cd78bbe5ef47")
-		)
-		(pin "2"
-			(uuid "f1a43476-30ff-41f4-976c-fcf318c399ca")
-		)
-		(instances
-			(project "Brushed ESC Mosfet Test part 2"
-				(path "/73277d98-f937-461a-b55b-9daec5511101"
-					(reference "J1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 115.57 88.9 0)
 		(unit 1)
@@ -8192,208 +7682,6 @@
 			(project "Brushed ESC Mosfet Test part 2"
 				(path "/73277d98-f937-461a-b55b-9daec5511101"
 					(reference "#PWR036")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GNDD")
-		(at 254 160.02 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4b04aa37-6fb8-40fa-bd9b-ee5aaa144e60")
-		(property "Reference" "#PWR030"
-			(at 254 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GNDD"
-			(at 254 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 254 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 254 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GNDD\" , digital ground"
-			(at 254 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2a2abd84-d64d-4169-897a-9a8ae34648f7")
-		)
-		(instances
-			(project "Brushed ESC Mosfet Test part 2"
-				(path "/73277d98-f937-461a-b55b-9daec5511101"
-					(reference "#PWR030")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 60.96 82.55 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4e55565c-b019-4f87-bc02-f9c318b7858f")
-		(property "Reference" "C15"
-			(at 64.77 81.2799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "C"
-			(at 64.77 83.8199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
-			(at 61.9252 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 60.96 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 60.96 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9b07ef0c-4b8e-4bd9-8207-be7e58a73b28")
-		)
-		(pin "2"
-			(uuid "9b01e1d6-5612-4c6c-9e6d-b79f1e19de25")
-		)
-		(instances
-			(project "Brushed ESC Mosfet Test part 2"
-				(path "/73277d98-f937-461a-b55b-9daec5511101"
-					(reference "C15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3.3V")
-		(at 92.71 78.74 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "50d2bd3c-53fc-4130-8255-dc9975b16514")
-		(property "Reference" "#PWR028"
-			(at 92.71 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 92.71 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 92.71 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 92.71 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 92.71 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "37a2a478-18d8-4152-816d-d2d2abc24dc8")
-		)
-		(instances
-			(project "Brushed ESC Mosfet Test part 2"
-				(path "/73277d98-f937-461a-b55b-9daec5511101"
-					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -8547,137 +7835,6 @@
 			(project "Brushed ESC Mosfet Test part 2"
 				(path "/73277d98-f937-461a-b55b-9daec5511101"
 					(reference "Q2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+BATT")
-		(at 127 151.13 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5794430e-e1a7-4b24-80c9-1f92bdac5fe4")
-		(property "Reference" "#PWR035"
-			(at 127 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+BATT"
-			(at 127 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 127 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 127 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+BATT\""
-			(at 127 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "08beb0f5-11ba-47f0-83a9-927e6165d351")
-		)
-		(instances
-			(project "Brushed ESC Mosfet Test part 2"
-				(path "/73277d98-f937-461a-b55b-9daec5511101"
-					(reference "#PWR035")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 71.12 78.74 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "57b68361-1826-4157-82a2-c171ed920bb6")
-		(property "Reference" "#PWR019"
-			(at 71.12 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 74.422 76.708 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 71.12 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 71.12 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 71.12 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "72a5c4ec-5208-457b-96c1-f8073b5a06ea")
-		)
-		(instances
-			(project "Brushed ESC Mosfet Test part 2"
-				(path "/73277d98-f937-461a-b55b-9daec5511101"
-					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -8970,113 +8127,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Jumper:Jumper_2_Open")
-		(at 93.98 54.61 0)
-		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "63efc9f3-560b-4bff-9d00-d0cadf1341e7")
-		(property "Reference" "JP2"
-			(at 93.98 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "5v jump"
-			(at 93.98 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
-			(at 93.98 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 93.98 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Jumper, 2-pole, open"
-			(at 93.98 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "0168acb1-ebdf-4369-b3d7-a89f1d2af575")
-		)
-		(pin "1"
-			(uuid "ac69794c-7b5e-4a81-be09-c4cd5f25a7f0")
-		)
-		(instances
-			(project "Brushed ESC Mosfet Test part 2"
-				(path "/73277d98-f937-461a-b55b-9daec5511101"
-					(reference "JP2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Sensor_Current:ACS712xLCTR-30A")
-		(at 254 149.86 0)
+		(lib_id "power:GND")
+		(at 77.47 138.43 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "6a592725-6c83-4942-8a46-013c740ce142")
-		(property "Reference" "U7"
-			(at 255.778 146.558 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "ACS712xLCTR-30A"
-			(at 255.778 140.462 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 256.54 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.allegromicro.com/~/media/Files/Datasheets/ACS712-Datasheet.ashx?la=en"
-			(at 254 149.86 0)
+		(fields_autoplaced yes)
+		(uuid "635b14ad-cf9a-4e7c-8dab-4f156efec727")
+		(property "Reference" "#PWR037"
+			(at 77.47 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9084,8 +8145,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "±30A Bidirectional Hall-Effect Current Sensor, +5.0V supply, 66mV/A, SOIC-8"
-			(at 254 149.86 0)
+		(property "Value" "GND"
+			(at 77.47 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 77.47 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 77.47 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 77.47 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9094,33 +8181,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "eb53b212-ab3f-4197-8e8d-d1ecdceee08b")
-		)
-		(pin "5"
-			(uuid "c5499e2e-748c-49a0-8bcf-a42f02c4b442")
-		)
-		(pin "2"
-			(uuid "e0b05196-5138-43b2-86d2-6350ffad0d15")
-		)
-		(pin "4"
-			(uuid "61baccd9-cd6f-42f0-abee-5e26aa91a34f")
-		)
-		(pin "8"
-			(uuid "6aa6afa3-bfca-488c-8d23-1037897b1b87")
-		)
-		(pin "3"
-			(uuid "b74eba08-73bb-487f-bce0-52507b0a55b6")
-		)
-		(pin "6"
-			(uuid "7601985f-67a1-42dd-bbe8-057d94a61788")
-		)
-		(pin "7"
-			(uuid "ef25981b-526a-4f35-b51f-7f8b53adaa42")
+			(uuid "416065e4-0b13-4c84-8be8-721f7dec2c8d")
 		)
 		(instances
 			(project "Brushed ESC Mosfet Test part 2"
 				(path "/73277d98-f937-461a-b55b-9daec5511101"
-					(reference "U7")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -9776,17 +8842,45 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GNDD")
-		(at 92.71 86.36 0)
+		(lib_id "Sensor_Current:ACS712xLCTR-30A")
+		(at 132.08 146.05 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "807787d0-2037-4a62-87f2-b4702561e12d")
-		(property "Reference" "#PWR026"
-			(at 92.71 92.71 0)
+		(uuid "81a2c9e3-c6a9-478d-a131-30ff9647e6b2")
+		(property "Reference" "U7"
+			(at 133.858 142.748 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "ACS712xLCTR-30A"
+			(at 133.858 136.652 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+			(at 134.62 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.allegromicro.com/~/media/Files/Datasheets/ACS712-Datasheet.ashx?la=en"
+			(at 132.08 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9794,34 +8888,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GNDD"
-			(at 92.71 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 92.71 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 92.71 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GNDD\" , digital ground"
-			(at 92.71 86.36 0)
+		(property "Description" "±30A Bidirectional Hall-Effect Current Sensor, +5.0V supply, 66mV/A, SOIC-8"
+			(at 132.08 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9830,12 +8898,33 @@
 			)
 		)
 		(pin "1"
-			(uuid "b034c0ee-edbc-4631-954d-0ca837d20d1c")
+			(uuid "bfc3dbbd-611e-409f-a9f0-b6173dd342e0")
+		)
+		(pin "5"
+			(uuid "fd6325c5-d745-48e4-bbb8-e8a15f14e163")
+		)
+		(pin "2"
+			(uuid "1fd96d19-c837-456b-8dae-0c22a4f7f657")
+		)
+		(pin "4"
+			(uuid "3eea75f5-7f57-4c32-a209-7d01e23aae2c")
+		)
+		(pin "8"
+			(uuid "83e9ade4-a9b8-4bfc-bd62-c330778676c5")
+		)
+		(pin "3"
+			(uuid "faa12ecb-8eed-4dac-8c10-85bb7229a9cf")
+		)
+		(pin "6"
+			(uuid "dea78909-c09e-4182-91a6-499df90150f2")
+		)
+		(pin "7"
+			(uuid "0d7edc0d-1362-4916-afe1-c863f3f2b5de")
 		)
 		(instances
 			(project "Brushed ESC Mosfet Test part 2"
 				(path "/73277d98-f937-461a-b55b-9daec5511101"
-					(reference "#PWR026")
+					(reference "U7")
 					(unit 1)
 				)
 			)
@@ -9982,76 +9071,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 265.43 85.09 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "84c9060a-d334-4d72-b714-807e8ab1911a")
-		(property "Reference" "C33"
-			(at 269.24 83.8199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "C"
-			(at 269.24 86.3599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
-			(at 266.3952 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 265.43 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 265.43 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "293ea325-7695-4597-9cff-f1ec72332f40")
-		)
-		(pin "1"
-			(uuid "9a9aceab-4e97-41a2-83f5-0fb54f3df2d1")
-		)
-		(instances
-			(project "Brushed ESC Mosfet Test part 2"
-				(path "/73277d98-f937-461a-b55b-9daec5511101"
-					(reference "C33")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+BATT")
 		(at 31.75 50.8 0)
 		(unit 1)
@@ -10111,76 +9130,6 @@
 			(project "Brushed ESC Mosfet Test part 2"
 				(path "/73277d98-f937-461a-b55b-9daec5511101"
 					(reference "#PWR016")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 242.57 148.59 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "86e91848-670e-4d66-8c78-b2f9e0b0dcd4")
-		(property "Reference" "R15"
-			(at 245.11 147.3199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R_shunt"
-			(at 245.11 149.8599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_2816_7142Metric_Pad3.20x4.45mm_HandSolder"
-			(at 240.792 148.59 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 242.57 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 242.57 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7ecf5824-b465-4706-adad-f9304c343b82")
-		)
-		(pin "2"
-			(uuid "93c24cd6-6ea6-4ba8-abc5-3b4d82c7338a")
-		)
-		(instances
-			(project "Brushed ESC Mosfet Test part 2"
-				(path "/73277d98-f937-461a-b55b-9daec5511101"
-					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -10425,35 +9374,16 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 243.84 77.47 0)
+		(lib_id "power:+3.3V")
+		(at 132.08 135.89 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "92bb7380-0118-4cf4-bf67-6e43a988b7e3")
-		(property "Reference" "R16"
-			(at 246.38 76.1999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R_shunt"
-			(at 246.38 78.7399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_2816_7142Metric_Pad3.20x4.45mm_HandSolder"
-			(at 242.062 77.47 90)
+		(uuid "90321c6f-8859-467c-b16d-73d0938a2917")
+		(property "Reference" "#PWR019"
+			(at 132.08 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10461,8 +9391,16 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 243.84 77.47 0)
+		(property "Value" "+3.3V"
+			(at 131.826 132.842 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 132.08 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10470,8 +9408,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 243.84 77.47 0)
+		(property "Datasheet" ""
+			(at 132.08 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 132.08 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10480,15 +9427,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "e92c7228-f7ad-45cd-9ac0-cb54a07be3d3")
-		)
-		(pin "2"
-			(uuid "40a55765-93b2-4bac-9f4c-8ff88fd656be")
+			(uuid "2a5f0e0c-6be0-4ae7-ad7f-9eb2afe60f0f")
 		)
 		(instances
 			(project "Brushed ESC Mosfet Test part 2"
 				(path "/73277d98-f937-461a-b55b-9daec5511101"
-					(reference "R16")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -10761,6 +9705,72 @@
 			(project "Brushed ESC Mosfet Test part 2"
 				(path "/73277d98-f937-461a-b55b-9daec5511101"
 					(reference "U6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+BATT")
+		(at 121.92 157.48 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a01c3598-2161-439f-a12a-817fac564cd5")
+		(property "Reference" "#PWR031"
+			(at 121.92 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+BATT"
+			(at 121.92 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 121.92 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 121.92 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+BATT\""
+			(at 121.92 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c9025061-b046-4430-b7f4-c3ad9536a959")
+		)
+		(instances
+			(project "Brushed ESC Mosfet Test part 2"
+				(path "/73277d98-f937-461a-b55b-9daec5511101"
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -11728,139 +10738,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 81.28 184.15 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "cdc1e29b-0501-47ad-ab51-a44335f07129")
-		(property "Reference" "R13"
-			(at 81.28 182.118 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R"
-			(at 81.28 184.15 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-			(at 81.28 185.928 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 81.28 184.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 81.28 184.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3c07b7b5-1a20-454f-aa2b-c4957cbc2990")
-		)
-		(pin "2"
-			(uuid "2adbf294-f2d7-4f09-b330-c1a894b71d4c")
-		)
-		(instances
-			(project "Brushed ESC Mosfet Test part 2"
-				(path "/73277d98-f937-461a-b55b-9daec5511101"
-					(reference "R13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GNDD")
-		(at 254 88.9 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d0a2ca5f-f55f-4d71-9863-830fbab7bd61")
-		(property "Reference" "#PWR033"
-			(at 254 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GNDD"
-			(at 254 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 254 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 254 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GNDD\" , digital ground"
-			(at 254 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "55a91310-876e-4d79-8ee5-3a329d0a1b2c")
-		)
-		(instances
-			(project "Brushed ESC Mosfet Test part 2"
-				(path "/73277d98-f937-461a-b55b-9daec5511101"
-					(reference "#PWR033")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Diode:SS34")
 		(at 210.82 99.06 180)
 		(unit 1)
@@ -11923,76 +10800,6 @@
 			(project "Brushed ESC Mosfet Test part 2"
 				(path "/73277d98-f937-461a-b55b-9daec5511101"
 					(reference "D3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 92.71 82.55 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d46a98f0-8316-4b35-8888-6781d4aa47b7")
-		(property "Reference" "C32"
-			(at 96.52 81.2799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "C"
-			(at 96.52 83.8199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
-			(at 93.6752 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 92.71 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 92.71 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "db545f96-8389-4ee3-82d5-9851096dd329")
-		)
-		(pin "2"
-			(uuid "dfaf82b8-27f5-44ac-b720-dc9c379f4419")
-		)
-		(instances
-			(project "Brushed ESC Mosfet Test part 2"
-				(path "/73277d98-f937-461a-b55b-9daec5511101"
-					(reference "C32")
 					(unit 1)
 				)
 			)
@@ -12284,34 +11091,32 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 71.12 82.55 0)
+		(at 64.77 138.43 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "e4e9f64d-d530-4765-a0d5-a54bda514de8")
-		(property "Reference" "C16"
-			(at 74.93 81.2799 0)
+		(uuid "dd44bf7d-6d67-4207-b942-bebc6a427b9e")
+		(property "Reference" "C5"
+			(at 64.77 130.81 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "C"
-			(at 74.93 83.8199 0)
+			(at 64.77 133.35 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
-			(at 72.0852 86.36 0)
+			(at 68.58 137.4648 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12320,7 +11125,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 71.12 82.55 0)
+			(at 64.77 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12329,7 +11134,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 71.12 82.55 0)
+			(at 64.77 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12338,31 +11143,32 @@
 			)
 		)
 		(pin "1"
-			(uuid "beee4857-0996-4a0f-a468-fed87c0ea2f7")
+			(uuid "ad7598d3-81fa-4414-9e93-2f5156298a67")
 		)
 		(pin "2"
-			(uuid "d05d2f74-2574-4d1f-a307-3d1226120d06")
+			(uuid "ba1bbbe5-1da4-49eb-ab20-c65a1fd3ca0f")
 		)
 		(instances
 			(project "Brushed ESC Mosfet Test part 2"
 				(path "/73277d98-f937-461a-b55b-9daec5511101"
-					(reference "C16")
+					(reference "C5")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "power:+3.3V")
-		(at 254 68.58 0)
+		(lib_id "power:GNDD")
+		(at 132.08 156.21 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "e5c06a88-58c7-403d-9b4b-2e4210370ae1")
-		(property "Reference" "#PWR032"
-			(at 254 72.39 0)
+		(fields_autoplaced yes)
+		(uuid "e2140de5-dc3a-43d9-a071-abcfc91d4e15")
+		(property "Reference" "#PWR021"
+			(at 132.08 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12370,8 +11176,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
-			(at 253.746 65.532 0)
+		(property "Value" "GNDD"
+			(at 132.08 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12379,7 +11185,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 254 68.58 0)
+			(at 132.08 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12388,7 +11194,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 254 68.58 0)
+			(at 132.08 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12396,8 +11202,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 254 68.58 0)
+		(property "Description" "Power symbol creates a global label with name \"GNDD\" , digital ground"
+			(at 132.08 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12406,12 +11212,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "93264450-473b-4999-a99b-a8e39ca89eb0")
+			(uuid "9ead05a8-4546-4061-a571-a0224d0939a5")
 		)
 		(instances
 			(project "Brushed ESC Mosfet Test part 2"
 				(path "/73277d98-f937-461a-b55b-9daec5511101"
-					(reference "#PWR032")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
