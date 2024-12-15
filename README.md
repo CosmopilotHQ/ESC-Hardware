@@ -1,10 +1,10 @@
 <p align="center">
-    <img src="https://img.shields.io/github/v/release/Witty-Wizard/Brushed-Speed-Controller" alt="GitHub Release">
-    <img src="https://img.shields.io/github/license/Witty-Wizard/Brushed-Speed-Controller" alt="GitHub License">
-    <img src="https://img.shields.io/github/stars/Witty-Wizard/Brushed-Speed-Controller?style=flat" alt="GitHub Repo stars">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/Witty-Wizard/Brushed-Speed-Controller?style=flat">
-    <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/Witty-Wizard/Brushed-Speed-Controller">
-    <a href="https://gitpod.io/#https://github.com/Witty-Wizard/Brushed-Speed-Controller"><img src="https://img.shields.io/badge/Gitpod-ready--to--code-blue?style=flat&logo=gitpod" alt="Gitpod"></a>
+    <img src="https://img.shields.io/github/v/release/CosmopilotHQ/ESC-Hardware" alt="GitHub Release">
+    <img src="https://img.shields.io/github/license/CosmopilotHQ/ESC-Hardware" alt="GitHub License">
+    <img src="https://img.shields.io/github/stars/CosmopilotHQ/ESC-Hardware?style=flat" alt="GitHub Repo stars">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/CosmopilotHQ/ESC-Hardware?style=flat">
+    <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/CosmopilotHQ/ESC-Hardware">
+    <a href="https://gitpod.io/#https://github.com/CosmopilotHQ/ESC-Hardware"><img src="https://img.shields.io/badge/Gitpod-ready--to--code-blue?style=flat&logo=gitpod" alt="Gitpod"></a>
 </p>
 
 # Brushed Speed Controller
@@ -17,7 +17,7 @@ To get started with this project, follow these steps:
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/Witty-Wizard/Brushed-Speed-Controller.git
+   git clone https://github.com/CosmopilotHQ/ESC-Hardware.git
    ```
 
 ## Port Manipulation
