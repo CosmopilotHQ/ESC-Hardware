@@ -1,5 +1,11 @@
 # Changes
 
+# 19 December 2024
+- Deletd the Redundant project files 
+- Renamed the Project files
+
+
+# 15 December 2024
 - Moved Code to [this repository](https://github.com/CosmopilotHQ/ESC-Firmware)
 - updated `.gitignore` to ignore kicad backup files
 - Removed Workflow for building Code
