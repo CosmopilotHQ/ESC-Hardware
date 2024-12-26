@@ -1,7 +1,7 @@
 # Changes
 
 # 19 December 2024
-- Deletd the Redundant project files 
+- Deleted the Redundant project files 
 - Renamed the Project files
 
 
