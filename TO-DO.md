@@ -3,8 +3,8 @@
 - [x] Voltage Regulator Circuit
 - [x] Microcontroller Circuit
 - [x] Current Measurement Circuit
-- [ ] Input and Output Fuses (Not adding in this iteration)
 - [ ] Mosfet Driver Circuit
+- [ ] Final Board Layout
 
 ## Voltage Regulator Circuit
 
@@ -12,13 +12,6 @@
 - [x] Schematic
 - [X] Diode Selection
 - [x] LC Filter Calculation
-
-## Microcontroller Circuit
-- [ ] ESD Protection (Not adding in current iteration)
-
-## Fuses
-- [ ] Add Input Fuses
-- [ ] Add Output Fuses
 
 ## Current Measurement
 - [x] Choose Opamp
@@ -28,3 +21,9 @@
 ## Mosfet Driver Circuit
 - [ ] Boot Strap Capacitor Selection
 - [ ] Gate Resistor Selection
+
+## Final Board Layour
+- [ ] Auxiliary Power
+- [ ] Microcontroller 
+- [ ] Output Stage
+- [ ] Final Touches
