@@ -1,10 +1,9 @@
 # TO-DO List
 
-- [ ] Voltage Regulator Circuit
-- [ ] Microcontroller Circuit
-- [ ] Current Measurement Circuit
-- [ ] Input and Output Fuses
-- [ ] Current Measurement Circuit
+- [x] Voltage Regulator Circuit
+- [x] Microcontroller Circuit
+- [x] Current Measurement Circuit
+- [ ] Input and Output Fuses (Not adding in this iteration)
 - [ ] Mosfet Driver Circuit
 
 ## Voltage Regulator Circuit
@@ -13,23 +12,19 @@
 - [x] Schematic
 - [X] Diode Selection
 - [x] LC Filter Calculation
-- [ ] Board Layout
 
 ## Microcontroller Circuit
-- [ ] ESD Protection
-- [ ] Layout
+- [ ] ESD Protection (Not adding in current iteration)
 
 ## Fuses
 - [ ] Add Input Fuses
 - [ ] Add Output Fuses
 
 ## Current Measurement
-- [ ] Choose Opamp
-- [ ] Opamp Circuit for Current Amplification
-- [ ] Shunt Choosing
-- [ ] Switch over circuit to bypass opamp
+- [x] Choose Opamp
+- [x] Opamp Circuit for Current Amplification
+- [x] Shunt Choosing
 
 ## Mosfet Driver Circuit
 - [ ] Boot Strap Capacitor Selection
 - [ ] Gate Resistor Selection
-- [ ] Board Layout
