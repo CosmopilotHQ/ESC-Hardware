@@ -1,6 +1,7 @@
 # Changes
 
-## 12 January 2024
-- Added Diode for Buck converter
-- Added LC Filter Values
-- Added Feedback Resistor Values
+## 17 January 2024
+- Added Smaller Diode
+- Added Values for Resistor and Capacitor
+- Made the Resistor and Capacitor package smaller
+- Updated BOM
