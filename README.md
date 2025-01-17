@@ -61,4 +61,4 @@ register |= (1 << bit_position);
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0. You can find more details in the [LICENSE](LICENSE) file.
+This project is licensed under CERN Open Hardware License. You can find more details in the [LICENSE](LICENSE) file.

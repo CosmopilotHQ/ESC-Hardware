@@ -1,4 +1,4 @@
 (fp_lib_table
   (version 7)
-  (lib (name "STM32G071")(type "KiCad")(uri "${KIPRJMOD}/STM32G071RET6/STM32G071RET6.pretty")(options "")(descr ""))
+  (lib (name "STM32G071")(type "KiCad")(uri "${KIPRJMOD}/STM32G071/STM32G071.pretty")(options "")(descr ""))
 )
